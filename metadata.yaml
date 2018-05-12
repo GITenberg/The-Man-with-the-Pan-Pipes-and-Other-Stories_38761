@@ -1,0 +1,46 @@
+_repo: The-Man-with-the-Pan-Pipes-and-Other-Stories_38761
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Morgan, Walter Jenks
+    aliases:
+    - Morgan, Walter J. (Walter Jenks)
+    - Morgan, W. J. (Walter Jenks)
+    birthdate: 1847
+    deathdate: 1924
+    gutenberg_agent_id: '34670'
+    url: http://www.gutenberg.org/2009/agents/34670
+covers:
+- cover_type: archival
+  image_path: 38761-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2012-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: The man with the pan-pipes -- Pig-Betty -- The dormouse's mistake
+  -- The Christmas guest -- Olive's tea-party -- A live dummy -- A queer hiding-place
+  -- Blue frocks and pink frocks.
+title: The Man with the Pan-Pipes, and Other Stories
+url: http://www.gutenberg.org/ebooks/38761
